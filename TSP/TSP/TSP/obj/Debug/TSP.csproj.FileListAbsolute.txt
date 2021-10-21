@@ -1,0 +1,31 @@
+C:\Users\It's Me\Desktop\UE Katowice\Algorytmy genetyczne\TSP\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\It's Me\Desktop\UE Katowice\Algorytmy genetyczne\TSP\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\It's Me\Desktop\UE Katowice\Algorytmy genetyczne\TSP\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\It's Me\Desktop\UE Katowice\Algorytmy genetyczne\TSP\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\It's Me\Desktop\UE Katowice\Algorytmy genetyczne\TSP\TSP\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\It's Me\Desktop\UE Katowice\Algorytmy genetyczne\TSP\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\It's Me\Desktop\UE Katowice\Algorytmy genetyczne\TSP\TSP\TSP\obj\Debug\TSP.pdb
+D:\szkoła\Dla Bula2\TSP\TSP\TSP\bin\Debug\TSP.exe.config
+D:\szkoła\Dla Bula2\TSP\TSP\TSP\bin\Debug\TSP.exe
+D:\szkoła\Dla Bula2\TSP\TSP\TSP\bin\Debug\TSP.pdb
+D:\szkoła\Dla Bula2\TSP\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+D:\szkoła\Dla Bula2\TSP\TSP\TSP\obj\Debug\TSP.exe
+D:\szkoła\Dla Bula2\TSP\TSP\TSP\obj\Debug\TSP.pdb
+D:\!Programy\c#\!mojeWzory\TSP\TSP\TSP\bin\Debug\TSP.exe.config
+D:\!Programy\c#\!mojeWzory\TSP\TSP\TSP\bin\Debug\TSP.exe
+D:\!Programy\c#\!mojeWzory\TSP\TSP\TSP\bin\Debug\TSP.pdb
+D:\!Programy\c#\!mojeWzory\TSP\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+D:\!Programy\c#\!mojeWzory\TSP\TSP\TSP\obj\Debug\TSP.exe
+D:\!Programy\c#\!mojeWzory\TSP\TSP\TSP\obj\Debug\TSP.pdb
+C:\Users\Tomek\Desktop\berlin52\TSP\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\Tomek\Desktop\berlin52\TSP\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\Tomek\Desktop\berlin52\TSP\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\Tomek\Desktop\berlin52\TSP\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\berlin52\TSP\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\Tomek\Desktop\berlin52\TSP\TSP\TSP\obj\Debug\TSP.pdb
+C:\Users\Tomasz\Desktop\berlin52\TSP\TSP\TSP\bin\Debug\TSP.exe.config
+C:\Users\Tomasz\Desktop\berlin52\TSP\TSP\TSP\bin\Debug\TSP.exe
+C:\Users\Tomasz\Desktop\berlin52\TSP\TSP\TSP\bin\Debug\TSP.pdb
+C:\Users\Tomasz\Desktop\berlin52\TSP\TSP\TSP\obj\Debug\TSP.csprojAssemblyReference.cache
+C:\Users\Tomasz\Desktop\berlin52\TSP\TSP\TSP\obj\Debug\TSP.exe
+C:\Users\Tomasz\Desktop\berlin52\TSP\TSP\TSP\obj\Debug\TSP.pdb

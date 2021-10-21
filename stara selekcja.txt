@@ -1,0 +1,23 @@
+            Random rnd = new Random();
+            // game Winner
+            Osobnik dominant = new Osobnik();
+            //uczestnicy turnieju
+            Osobnik[] turniej = new Osobnik[Parm.s];
+            //populacja po turnieju
+            popAfterS = new Osobnik[Parm.m];
+            //
+            int bestOcena;
+            for (int i = 0; i < popBefore.Length; i++)
+            {
+                bestOcena = 999999;
+                for (int j = 0; j < Parm.s; j++)
+                {
+                    turniej[j] = popBefore[rnd.Next(Parm.m)];
+                    if (bestOcena > turniej[j].Ocena)
+                    {
+                        bestOcena = turniej[j].Ocena;
+                        dominant = turniej[j];
+                    }
+                }
+                popAfterS[i] = dominant;
+            }
